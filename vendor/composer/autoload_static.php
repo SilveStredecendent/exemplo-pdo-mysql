@@ -16,7 +16,7 @@ class ComposerStaticInit08010680be0fb9ced8808a412a4789e7
     public static $prefixDirsPsr4 = array (
         'ExemploPDOMySQL\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/SRC',
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

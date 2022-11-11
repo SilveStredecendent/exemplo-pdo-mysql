@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'ExemploPDOMySQL\\' => array($baseDir . '/SRC'),
+    'ExemploPDOMySQL\\' => array($baseDir . '/src'),
 );
